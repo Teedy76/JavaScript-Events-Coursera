@@ -1,0 +1,28 @@
+body {
+	margin: 2%;
+	border: 2px solid white;
+	background-color: #dea4eb;
+}
+
+#altText {
+	line-height: 100px;
+	text-align: center;
+	width: 575px;
+	height: 100px;
+	border: 5px solid white;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	background-color: #97f2ee;
+	font-size: 150%;
+}
+
+
+.pictures {
+	width: 20%;
+	margin-left: 17%;
+	border: 5px solid white;
+}
+
+img {
+	width: 100%;
+}
